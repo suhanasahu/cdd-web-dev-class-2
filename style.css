@@ -1,0 +1,27 @@
+*{
+    padding:0;
+    border:0;
+}
+.swaga-1 {
+    border: 10px solid rgb(190, 137, 190);
+    margin: 25px;
+    padding: 20px;
+    color: purple;
+    background: rgb(174, 174, 162);
+}
+
+.swaga-2 {
+    border: 10px solid pink;
+    margin: 20px;
+    padding: 25px;
+    color:rgb(37, 29, 29);
+    background:rgb(171, 111, 171);
+}
+
+.swaga-3 {
+    border: 10px solid rgb(120, 120, 199);
+    margin: 20px;
+    padding: 20px;
+    color: palevioletred;
+    background: rgb(81, 45, 45);
+}
